@@ -1,0 +1,15 @@
+# Build and dependency directories
+target/
+node_modules/
+dist/
+
+# Local configuration and environment variables
+.env
+application-local.yml
+
+# Logs
+*.log
+
+# IDE and Editor settings
+.idea/
+.vscode/
